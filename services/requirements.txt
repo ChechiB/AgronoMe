@@ -2,7 +2,7 @@
 flask
 flask-restplus==0.11.0
 python-dotenv==0.8.1
-requests==2.19.0
+requests==2.20.0
 flask-SQLAlchemy==2.3.0
 flask-migrate
 flask-script
