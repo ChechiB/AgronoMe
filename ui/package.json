@@ -24,7 +24,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.10.2",
     "@ng-bootstrap/ng-bootstrap": "^5.1.1",
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.9.2",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-datalabels": "^0.7.0",
     "jshint": "^2.10.2",
     "jw-angular-pagination": "^1.1.0",
